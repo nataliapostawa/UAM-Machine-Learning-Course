@@ -19,6 +19,6 @@ Here are the datasets and my solutions (written in Python) to Machine Learning C
 * [Jupyter Notebook](http://jupyter.org/)
 * Useful libraries: NumPy, Pandas, Matplotlib, Scikit-learn, ipywidgets
 
-### To run IPython Notebook from command line:
+#### To run IPython Notebook from command line:
 
     jupyter notebook
